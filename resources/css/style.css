@@ -49,3 +49,7 @@ p {
 a:visited {
     color: aquamarine;
 }
+
+#footer {
+  text-align: right;
+}
