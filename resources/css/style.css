@@ -46,6 +46,6 @@ p {
   text-align: center;
 }
 
-a {
+a:visited {
     color: aquamarine;
 }
